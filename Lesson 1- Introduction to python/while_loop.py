@@ -9,13 +9,6 @@
 #     name = input('Enter your username:')
 # print('Thank you Sudarsan')
 
-# while True:
-#     print('Please provide your username')
-#     name = input('Input your username')
-#     if name == 'sudarsan':
-#         break
-# print('Thanks')
-
 while True:
     print('Please enter a correct username')
     username = input()
@@ -27,6 +20,5 @@ while True:
         password = input()
         if password != 'password':
             print('Access granted')
-            break
-        print('Enter a correct password')
-    break
+        break
+    print('Thanks')
