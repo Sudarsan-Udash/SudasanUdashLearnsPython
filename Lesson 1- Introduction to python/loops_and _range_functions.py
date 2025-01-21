@@ -89,6 +89,8 @@ for numbers in range(0, 10):
 
 
 # Find the sum of all even numbers from 1 to 100.
+
+
 # Take a number as input and print its factorial using a loop.
 # Advanced Intermediate
 # Print Fibonacci numbers up to a specific limit (e.g., 100).
